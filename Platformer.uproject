@@ -248,13 +248,5 @@
 			"Name": "Iliad",
 			"Enabled": false
 		}
-	],
-	"TargetPlatforms": [
-		"AllDesktop",
-		"LinuxNoEditor",
-		"LinuxAArch64NoEditor",
-		"MacNoEditor",
-		"WindowsNoEditor",
-		"WindowsNoEditorWin32"
 	]
 }
