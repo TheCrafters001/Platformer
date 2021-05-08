@@ -1,2 +1,6 @@
-# Platformer
-Just some random 2d platformer.
+# Platformer template
+Template project for a platformer game.
+
+
+# Credits
+Graphics by [Kenney](https://kenney.nl)
